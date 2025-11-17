@@ -1,2 +1,2 @@
 # trainer-search-app
-national institute engineering
+national institute engineering mysore
